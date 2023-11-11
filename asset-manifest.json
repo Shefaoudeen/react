@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.241951ba.css",
+    "main.js": "/react/static/js/main.371d5a2f.js",
+    "static/media/download.jpeg": "/react/static/media/download.d9bd7dd3f83be44aedab.jpeg",
+    "static/media/attack.jpeg": "/react/static/media/attack.61942c21633ed25123c0.jpeg",
+    "static/media/vinland.jpeg": "/react/static/media/vinland.ddaedf751a56f6b5b5d3.jpeg",
+    "index.html": "/react/index.html",
+    "main.241951ba.css.map": "/react/static/css/main.241951ba.css.map",
+    "main.371d5a2f.js.map": "/react/static/js/main.371d5a2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.241951ba.css",
+    "static/js/main.371d5a2f.js"
+  ]
+}

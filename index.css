@@ -1,0 +1,50 @@
+#root {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app {
+  width: 600px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.head {
+  display: flex;
+  border-radius: 10px 10px 0 0;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(248, 122, 122);
+}
+
+.globe {
+  font-size: 30px;
+  margin-right: 10px;
+}
+
+.anime {
+  display: flex;
+  width: 100%;
+  border-radius: 10px;
+  padding: 10px;
+  gap: 10px;
+  margin: 10px 0;
+  box-shadow: 5px 5px 10px gray;
+}
+
+.genre {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+}
+
+.genre > p {
+  margin-top: 15px;
+}
+
+.animeImage {
+  border-radius: 10px;
+}
